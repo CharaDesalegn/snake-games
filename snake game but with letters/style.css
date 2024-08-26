@@ -1,0 +1,8 @@
+body{
+    background-color: black;
+}
+p{
+    font-weight:bolder;
+    line-height: 10%;
+    text-shadow: 3px 3px 50px red;
+}
